@@ -6,5 +6,5 @@ I am a JavaScript backend developer. I have made Tabby discord bot wich verified
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heges69&theme=dark&layout=compact)
 
-![Discord](https://raw.githubusercontent.com/Heges69/Heges69/discord.png)
+![Discord](https://raw.githubusercontent.com/Heges69/Heges69/master/discord.png)
 
