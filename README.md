@@ -8,3 +8,4 @@ I am a JavaScript backend developer. I have made Tabby discord bot wich is verif
 
 ![Discord](https://raw.githubusercontent.com/Heges69/Heges69/master/discord.png)
 
+Also check out my programming partner Samculo
