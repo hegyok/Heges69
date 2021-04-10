@@ -1,5 +1,5 @@
 Hello, 
-I am a JavaScript backend developer. I have made Tabby discord bot wich verified and has over 660 servers.
+I am a JavaScript backend developer. I have made Tabby discord bot wich is verified and has over 660 servers.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heges69&show_icons=true&theme=dark)
