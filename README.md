@@ -1,5 +1,4 @@
-Hello, 
-I am a JavaScript backend developer. I have made Tabby discord bot wich is verified and has over 950 servers.
+no :)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heges69&show_icons=true&theme=radical)
