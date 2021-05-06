@@ -7,4 +7,6 @@ no :)
 
 ![Discord](https://raw.githubusercontent.com/Heges69/Heges69/master/discord.png)
 
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
 Also check out my programming partner Samculo
